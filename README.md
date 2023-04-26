@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Negin
-- 👩‍💻 I'm a research assistant at the data science lab at the University of Tehran
+- 👩‍💻 I'm will start my M.Sc. studies in computer science at York University in September 2023.
 - 👀 I’m interested in Data science, machine learning and deep learning
-- 🌱 I’m currently working on a predictive toxicology project to help reduce animal testing
 - 🖥 I’m interested in collaborating on data science projects
 
 <!---
